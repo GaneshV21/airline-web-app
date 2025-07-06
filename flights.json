@@ -1,0 +1,4757 @@
+{
+  "pagination": {
+    "limit": 100,
+    "offset": 0,
+    "count": 100,
+    "total": 249700
+  },
+  "data": [
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T04:00:00+00:00",
+        "estimated": "2025-07-06T04:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Ted Stevens Anchorage International Airport",
+        "timezone": "America/Anchorage",
+        "iata": "ANC",
+        "icao": "PANC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-05T18:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Korean Air",
+        "iata": "KE",
+        "icao": "KAL"
+      },
+      "flight": {
+        "number": "273",
+        "iata": "KE273",
+        "icao": "KAL273",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T04:00:00+00:00",
+        "estimated": "2025-07-06T04:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Findel",
+        "timezone": "Europe/Luxembourg",
+        "iata": "LUX",
+        "icao": "ELLX",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T12:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Cargolux",
+        "iata": "CV",
+        "icao": "CLX"
+      },
+      "flight": {
+        "number": "7156",
+        "iata": "CV7156",
+        "icao": "CLX7156",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T03:40:00+00:00",
+        "estimated": "2025-07-06T03:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Zhengzhou",
+        "timezone": "Asia/Shanghai",
+        "iata": "CGO",
+        "icao": "ZHCC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Longhao Airlines",
+        "iata": "GI",
+        "icao": "LHA"
+      },
+      "flight": {
+        "number": "4206",
+        "iata": "GI4206",
+        "icao": "LHA4206",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T03:25:00+00:00",
+        "estimated": "2025-07-06T03:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Wenzhou",
+        "timezone": "Asia/Shanghai",
+        "iata": "WNZ",
+        "icao": "ZSWZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "YTO Cargo Airlines",
+        "iata": "YG",
+        "icao": "HYT"
+      },
+      "flight": {
+        "number": "9052",
+        "iata": "YG9052",
+        "icao": "HYT9052",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T03:10:00+00:00",
+        "estimated": "2025-07-06T03:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Heydar Aliyev International (Bina International)",
+        "timezone": "Asia/Baku",
+        "iata": "GYD",
+        "icao": "UBBB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T07:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Silk Way West",
+        "iata": "7L",
+        "icao": "AZG"
+      },
+      "flight": {
+        "number": "124",
+        "iata": "7L124",
+        "icao": "AZG124",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T03:10:00+00:00",
+        "estimated": "2025-07-06T03:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "icao": "QTR"
+      },
+      "flight": {
+        "number": "8985",
+        "iata": "QR8985",
+        "icao": "QTR8985",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T02:25:00+00:00",
+        "estimated": "2025-07-06T02:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Frankfurt International Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T08:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      },
+      "flight": {
+        "number": "8385",
+        "iata": "LH8385",
+        "icao": "DLH8385",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T02:20:00+00:00",
+        "estimated": "2025-07-06T02:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Los Angeles International",
+        "timezone": "America/Los_Angeles",
+        "iata": "LAX",
+        "icao": "KLAX",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-05T21:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Korean Air",
+        "iata": "KE",
+        "icao": "KAL"
+      },
+      "flight": {
+        "number": "213",
+        "iata": "KE213",
+        "icao": "KAL213",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T02:10:00+00:00",
+        "estimated": "2025-07-06T02:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Duong Dong",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "iata": "PQC",
+        "icao": "VVPQ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "VietJet Air",
+        "iata": "VJ",
+        "icao": "VJC"
+      },
+      "flight": {
+        "number": "979",
+        "iata": "VJ979",
+        "icao": "VJC979",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:50:00+00:00",
+        "estimated": "2025-07-06T01:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Cam Ranh",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "iata": "CXR",
+        "icao": "VVCR",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T04:40:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "VietJet Air",
+        "iata": "VJ",
+        "icao": "VJC"
+      },
+      "flight": {
+        "number": "839",
+        "iata": "VJ839",
+        "icao": "VJC839",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:50:00+00:00",
+        "estimated": "2025-07-06T01:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "New Ulaanbaator International Airport",
+        "timezone": null,
+        "iata": "UBN",
+        "icao": "ZMCK",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T04:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Miat - Mongolian Airlines",
+        "iata": "OM",
+        "icao": "MGL"
+      },
+      "flight": {
+        "number": "310",
+        "iata": "OM310",
+        "icao": "MGL310",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:45:00+00:00",
+        "estimated": "2025-07-06T01:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Duong Dong",
+        "timezone": "Asia/Ho_Chi_Minh",
+        "iata": "PQC",
+        "icao": "VVPQ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "VietJet Air",
+        "iata": "VJ",
+        "icao": "VJC"
+      },
+      "flight": {
+        "number": "975",
+        "iata": "VJ975",
+        "icao": "VJC975",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:40:00+00:00",
+        "estimated": "2025-07-06T01:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Shanghai Pudong International",
+        "timezone": "Asia/Shanghai",
+        "iata": "PVG",
+        "icao": "ZSPD",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T02:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Korean Air",
+        "iata": "KE",
+        "icao": "KAL"
+      },
+      "flight": {
+        "number": "8315",
+        "iata": "KE8315",
+        "icao": "KAL8315",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:40:00+00:00",
+        "estimated": "2025-07-06T01:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Shanghai Pudong International",
+        "timezone": "Asia/Shanghai",
+        "iata": "PVG",
+        "icao": "ZSPD",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T02:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Korean Air",
+        "iata": "KE",
+        "icao": "KAL"
+      },
+      "flight": {
+        "number": "259",
+        "iata": "KE259",
+        "icao": "KAL259",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:20:00+00:00",
+        "estimated": "2025-07-06T01:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Garuda Indonesia",
+        "iata": "GA",
+        "icao": "GIA"
+      },
+      "flight": {
+        "number": "879",
+        "iata": "GA879",
+        "icao": "GIA879",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": "31",
+        "delay": null,
+        "scheduled": "2025-07-06T01:20:00+00:00",
+        "estimated": "2025-07-06T01:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "icao": "QTR"
+      },
+      "flight": {
+        "number": "859",
+        "iata": "QR859",
+        "icao": "QTR859",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": "M19",
+        "delay": null,
+        "scheduled": "2025-07-06T01:15:00+00:00",
+        "estimated": "2025-07-06T01:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T04:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Cebu Pacific Air",
+        "iata": "5J",
+        "icao": "CEB"
+      },
+      "flight": {
+        "number": "187",
+        "iata": "5J187",
+        "icao": "CEB187",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Christchurch International",
+        "timezone": "Pacific/Auckland",
+        "iata": "CHC",
+        "icao": "NZCH",
+        "terminal": null,
+        "gate": "D17",
+        "delay": null,
+        "scheduled": "2025-07-06T05:45:00+00:00",
+        "estimated": "2025-07-06T05:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Auckland International",
+        "timezone": "Pacific/Auckland",
+        "iata": "AKL",
+        "icao": "NZAA",
+        "terminal": "D",
+        "gate": "31",
+        "baggage": "DTB2",
+        "scheduled": "2025-07-06T07:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air New Zealand",
+        "iata": "NZ",
+        "icao": "ANZ"
+      },
+      "flight": {
+        "number": "582",
+        "iata": "NZ582",
+        "icao": "ANZ582",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:10:00+00:00",
+        "estimated": "2025-07-06T01:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Babullah",
+        "timezone": "Asia/Jayapura",
+        "iata": "TTE",
+        "icao": "WAMT",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Garuda Indonesia",
+        "iata": "GA",
+        "icao": "GIA"
+      },
+      "flight": {
+        "number": "648",
+        "iata": "GA648",
+        "icao": "GIA648",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:00:00+00:00",
+        "estimated": "2025-07-06T01:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Kuala Lumpur International Airport (klia)",
+        "timezone": "Asia/Kuala_Lumpur",
+        "iata": "KUL",
+        "icao": "WMKK",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T04:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "China Airlines",
+        "iata": "CI",
+        "icao": "CAL"
+      },
+      "flight": {
+        "number": "5854",
+        "iata": "CI5854",
+        "icao": "CAL5854",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:55:00+00:00",
+        "estimated": "2025-07-06T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "6",
+        "scheduled": "2025-07-06T05:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "icao": "QTR"
+      },
+      "flight": {
+        "number": "955",
+        "iata": "QR955",
+        "icao": "QTR955",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:55:00+00:00",
+        "estimated": "2025-07-06T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "6",
+        "scheduled": "2025-07-06T05:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "British Airways",
+        "iata": "BA",
+        "icao": "BAW"
+      },
+      "flight": {
+        "number": "6395",
+        "iata": "BA6395",
+        "icao": "BAW6395",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "955",
+          "flight_iata": "qr955",
+          "flight_icao": "qtr955"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:55:00+00:00",
+        "estimated": "2025-07-06T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "6",
+        "scheduled": "2025-07-06T05:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "JetBlue Airways",
+        "iata": "B6",
+        "icao": "JBU"
+      },
+      "flight": {
+        "number": "6534",
+        "iata": "B66534",
+        "icao": "JBU6534",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "955",
+          "flight_iata": "qr955",
+          "flight_icao": "qtr955"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:55:00+00:00",
+        "estimated": "2025-07-06T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "6",
+        "scheduled": "2025-07-06T05:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Finnair",
+        "iata": "AY",
+        "icao": "FIN"
+      },
+      "flight": {
+        "number": "6668",
+        "iata": "AY6668",
+        "icao": "FIN6668",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "955",
+          "flight_iata": "qr955",
+          "flight_icao": "qtr955"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:55:00+00:00",
+        "estimated": "2025-07-06T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "6",
+        "scheduled": "2025-07-06T05:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "AlphaSky",
+        "iata": "AS",
+        "icao": "JAG"
+      },
+      "flight": {
+        "number": "5780",
+        "iata": "AS5780",
+        "icao": "JAG5780",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "955",
+          "flight_iata": "qr955",
+          "flight_icao": "qtr955"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:55:00+00:00",
+        "estimated": "2025-07-06T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Doha International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": null,
+        "gate": null,
+        "baggage": "6",
+        "scheduled": "2025-07-06T05:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "American Airlines",
+        "iata": "AA",
+        "icao": "AAL"
+      },
+      "flight": {
+        "number": "8151",
+        "iata": "AA8151",
+        "icao": "AAL8151",
+        "codeshared": {
+          "airline_name": "qatar airways",
+          "airline_iata": "qr",
+          "airline_icao": "qtr",
+          "flight_number": "955",
+          "flight_iata": "qr955",
+          "flight_icao": "qtr955"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:55:00+00:00",
+        "estimated": "2025-07-06T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Philippine Airlines",
+        "iata": "PR",
+        "icao": "PAL"
+      },
+      "flight": {
+        "number": "536",
+        "iata": "PR536",
+        "icao": "PAL536",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:55:00+00:00",
+        "estimated": "2025-07-06T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Garuda Indonesia",
+        "iata": "GA",
+        "icao": "GIA"
+      },
+      "flight": {
+        "number": "9986",
+        "iata": "GA9986",
+        "icao": "GIA9986",
+        "codeshared": {
+          "airline_name": "philippine airlines",
+          "airline_iata": "pr",
+          "airline_icao": "pal",
+          "flight_number": "536",
+          "flight_iata": "pr536",
+          "flight_icao": "pal536"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:45:00+00:00",
+        "estimated": "2025-07-06T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Sentani",
+        "timezone": "Asia/Jayapura",
+        "iata": "DJJ",
+        "icao": "WAJJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T08:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Batik Air",
+        "iata": "ID",
+        "icao": "BTK"
+      },
+      "flight": {
+        "number": "6180",
+        "iata": "ID6180",
+        "icao": "BTK6180",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:45:00+00:00",
+        "estimated": "2025-07-06T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Abu Dhabi International",
+        "timezone": "Asia/Dubai",
+        "iata": "AUH",
+        "icao": "OMAA",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Etihad Airways",
+        "iata": "EY",
+        "icao": "ETD"
+      },
+      "flight": {
+        "number": "473",
+        "iata": "EY473",
+        "icao": "ETD473",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:45:00+00:00",
+        "estimated": "2025-07-06T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Abu Dhabi International",
+        "timezone": "Asia/Dubai",
+        "iata": "AUH",
+        "icao": "OMAA",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "EgyptAir",
+        "iata": "MS",
+        "icao": "MSR"
+      },
+      "flight": {
+        "number": "8133",
+        "iata": "MS8133",
+        "icao": "MSR8133",
+        "codeshared": {
+          "airline_name": "etihad airways",
+          "airline_iata": "ey",
+          "airline_icao": "etd",
+          "flight_number": "473",
+          "flight_iata": "ey473",
+          "flight_icao": "etd473"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:45:00+00:00",
+        "estimated": "2025-07-06T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Abu Dhabi International",
+        "timezone": "Asia/Dubai",
+        "iata": "AUH",
+        "icao": "OMAA",
+        "terminal": "A",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Garuda Indonesia",
+        "iata": "GA",
+        "icao": "GIA"
+      },
+      "flight": {
+        "number": "9045",
+        "iata": "GA9045",
+        "icao": "GIA9045",
+        "codeshared": {
+          "airline_name": "etihad airways",
+          "airline_iata": "ey",
+          "airline_icao": "etd",
+          "flight_number": "473",
+          "flight_iata": "ey473",
+          "flight_icao": "etd473"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:45:00+00:00",
+        "estimated": "2025-07-06T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Emirates",
+        "iata": "EK",
+        "icao": "UAE"
+      },
+      "flight": {
+        "number": "359",
+        "iata": "EK359",
+        "icao": "UAE359",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:45:00+00:00",
+        "estimated": "2025-07-06T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Garuda Indonesia",
+        "iata": "GA",
+        "icao": "GIA"
+      },
+      "flight": {
+        "number": "8853",
+        "iata": "GA8853",
+        "icao": "GIA8853",
+        "codeshared": {
+          "airline_name": "emirates",
+          "airline_iata": "ek",
+          "airline_icao": "uae",
+          "flight_number": "359",
+          "flight_iata": "ek359",
+          "flight_icao": "uae359"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:45:00+00:00",
+        "estimated": "2025-07-06T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "flydubai",
+        "iata": "FZ",
+        "icao": "FDB"
+      },
+      "flight": {
+        "number": "6359",
+        "iata": "FZ6359",
+        "icao": "FDB6359",
+        "codeshared": {
+          "airline_name": "emirates",
+          "airline_iata": "ek",
+          "airline_icao": "uae",
+          "flight_number": "359",
+          "flight_iata": "ek359",
+          "flight_icao": "uae359"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:45:00+00:00",
+        "estimated": "2025-07-06T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Dubai",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air Baltic",
+        "iata": "BT",
+        "icao": "BTI"
+      },
+      "flight": {
+        "number": "5808",
+        "iata": "BT5808",
+        "icao": "BTI5808",
+        "codeshared": {
+          "airline_name": "emirates",
+          "airline_iata": "ek",
+          "airline_icao": "uae",
+          "flight_number": "359",
+          "flight_iata": "ek359",
+          "flight_icao": "uae359"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "cancelled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:40:00+00:00",
+        "estimated": "2025-07-06T00:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "King Abdulaziz International",
+        "timezone": "Asia/Riyadh",
+        "iata": "JED",
+        "icao": "OEJN",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Saudia",
+        "iata": "SV",
+        "icao": "SVA"
+      },
+      "flight": {
+        "number": "827",
+        "iata": "SV827",
+        "icao": "SVA827",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "cancelled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:40:00+00:00",
+        "estimated": "2025-07-06T00:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "King Abdulaziz International",
+        "timezone": "Asia/Riyadh",
+        "iata": "JED",
+        "icao": "OEJN",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Vietnam Airlines",
+        "iata": "VN",
+        "icao": "HVN"
+      },
+      "flight": {
+        "number": "3215",
+        "iata": "VN3215",
+        "icao": "HVN3215",
+        "codeshared": {
+          "airline_name": "saudia",
+          "airline_iata": "sv",
+          "airline_icao": "sva",
+          "flight_number": "827",
+          "flight_iata": "sv827",
+          "flight_icao": "sva827"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:35:00+00:00",
+        "estimated": "2025-07-06T00:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Pattimura",
+        "timezone": "Asia/Jayapura",
+        "iata": "AMQ",
+        "icao": "WAPP",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Batik Air",
+        "iata": "ID",
+        "icao": "BTK"
+      },
+      "flight": {
+        "number": "6170",
+        "iata": "ID6170",
+        "icao": "BTK6170",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:30:00+00:00",
+        "estimated": "2025-07-06T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Nanning",
+        "timezone": "Asia/Shanghai",
+        "iata": "NNG",
+        "icao": "ZGNN",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Sichuan Airlines",
+        "iata": "3U",
+        "icao": "CSC"
+      },
+      "flight": {
+        "number": "9010",
+        "iata": "3U9010",
+        "icao": "CSC9010",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:30:00+00:00",
+        "estimated": "2025-07-06T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hasanudin",
+        "timezone": "Asia/Makassar",
+        "iata": "UPG",
+        "icao": "WAAA",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T03:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Sriwijaya Air",
+        "iata": "SJ",
+        "icao": "SJY"
+      },
+      "flight": {
+        "number": "592",
+        "iata": "SJ592",
+        "icao": "SJY592",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:30:00+00:00",
+        "estimated": "2025-07-06T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Jefman",
+        "timezone": "Asia/Jayapura",
+        "iata": "SOQ",
+        "icao": "WASS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Batik Air",
+        "iata": "ID",
+        "icao": "BTK"
+      },
+      "flight": {
+        "number": "7797",
+        "iata": "ID7797",
+        "icao": "BTK7797",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:30:00+00:00",
+        "estimated": "2025-07-06T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Jefman",
+        "timezone": "Asia/Jayapura",
+        "iata": "SOQ",
+        "icao": "WASS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Batik Air",
+        "iata": "ID",
+        "icao": "BTK"
+      },
+      "flight": {
+        "number": "6154",
+        "iata": "ID6154",
+        "icao": "BTK6154",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:25:00+00:00",
+        "estimated": "2025-07-06T00:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Xiamen",
+        "timezone": "Asia/Shanghai",
+        "iata": "XMN",
+        "icao": "ZSAM",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Shandong Airlines",
+        "iata": "SC",
+        "icao": "CDG"
+      },
+      "flight": {
+        "number": "2154",
+        "iata": "SC2154",
+        "icao": "CDG2154",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:25:00+00:00",
+        "estimated": "2025-07-06T00:25:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Xiamen",
+        "timezone": "Asia/Shanghai",
+        "iata": "XMN",
+        "icao": "ZSAM",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air China LTD",
+        "iata": "CA",
+        "icao": "CCA"
+      },
+      "flight": {
+        "number": "8900",
+        "iata": "CA8900",
+        "icao": "CCA8900",
+        "codeshared": {
+          "airline_name": "shandong airlines",
+          "airline_iata": "sc",
+          "airline_icao": "cdg",
+          "flight_number": "2154",
+          "flight_iata": "sc2154",
+          "flight_icao": "cdg2154"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3U",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:20:00+00:00",
+        "estimated": "2025-07-06T00:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Shenzhen",
+        "timezone": "Asia/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": "T3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "China Southern Airlines",
+        "iata": "CZ",
+        "icao": "CSN"
+      },
+      "flight": {
+        "number": "8354",
+        "iata": "CZ8354",
+        "icao": "CSN8354",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:15:00+00:00",
+        "estimated": "2025-07-06T00:15:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Cebu Pacific Air",
+        "iata": "5J",
+        "icao": "CEB"
+      },
+      "flight": {
+        "number": "760",
+        "iata": "5J760",
+        "icao": "CEB760",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:10:00+00:00",
+        "estimated": "2025-07-06T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hasanudin",
+        "timezone": "Asia/Makassar",
+        "iata": "UPG",
+        "icao": "WAAA",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T03:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Batik Air",
+        "iata": "ID",
+        "icao": "BTK"
+      },
+      "flight": {
+        "number": "6288",
+        "iata": "ID6288",
+        "icao": "BTK6288",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:10:00+00:00",
+        "estimated": "2025-07-06T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Jefman",
+        "timezone": "Asia/Jayapura",
+        "iata": "SOQ",
+        "icao": "WASS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Garuda Indonesia",
+        "iata": "GA",
+        "icao": "GIA"
+      },
+      "flight": {
+        "number": "682",
+        "iata": "GA682",
+        "icao": "GIA682",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:10:00+00:00",
+        "estimated": "2025-07-06T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Jefman",
+        "timezone": "Asia/Jayapura",
+        "iata": "SOQ",
+        "icao": "WASS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Japan Airlines",
+        "iata": "JL",
+        "icao": "JTL"
+      },
+      "flight": {
+        "number": "8483",
+        "iata": "JL8483",
+        "icao": "JTL8483",
+        "codeshared": {
+          "airline_name": "garuda indonesia",
+          "airline_iata": "ga",
+          "airline_icao": "gia",
+          "flight_number": "682",
+          "flight_iata": "ga682",
+          "flight_icao": "gia682"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:10:00+00:00",
+        "estimated": "2025-07-06T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Jefman",
+        "timezone": "Asia/Jayapura",
+        "iata": "SOQ",
+        "icao": "WASS",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Etihad Airways",
+        "iata": "EY",
+        "icao": "ETD"
+      },
+      "flight": {
+        "number": "7076",
+        "iata": "EY7076",
+        "icao": "ETD7076",
+        "codeshared": {
+          "airline_name": "garuda indonesia",
+          "airline_iata": "ga",
+          "airline_icao": "gia",
+          "flight_number": "682",
+          "flight_iata": "ga682",
+          "flight_icao": "gia682"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": "7",
+        "delay": null,
+        "scheduled": "2025-07-06T00:05:00+00:00",
+        "estimated": "2025-07-06T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hong Kong International",
+        "timezone": "Asia/Hong_Kong",
+        "iata": "HKG",
+        "icao": "VHHH",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Cathay Pacific",
+        "iata": "CX",
+        "icao": "CPA"
+      },
+      "flight": {
+        "number": "798",
+        "iata": "CX798",
+        "icao": "CPA798",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": "7",
+        "delay": null,
+        "scheduled": "2025-07-06T00:05:00+00:00",
+        "estimated": "2025-07-06T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hong Kong International",
+        "timezone": "Asia/Hong_Kong",
+        "iata": "HKG",
+        "icao": "VHHH",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "icao": "QTR"
+      },
+      "flight": {
+        "number": "3489",
+        "iata": "QR3489",
+        "icao": "QTR3489",
+        "codeshared": {
+          "airline_name": "cathay pacific",
+          "airline_iata": "cx",
+          "airline_icao": "cpa",
+          "flight_number": "798",
+          "flight_iata": "cx798",
+          "flight_icao": "cpa798"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": "7",
+        "delay": null,
+        "scheduled": "2025-07-06T00:05:00+00:00",
+        "estimated": "2025-07-06T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hong Kong International",
+        "timezone": "Asia/Hong_Kong",
+        "iata": "HKG",
+        "icao": "VHHH",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "British Airways",
+        "iata": "BA",
+        "icao": "BAW"
+      },
+      "flight": {
+        "number": "4148",
+        "iata": "BA4148",
+        "icao": "BAW4148",
+        "codeshared": {
+          "airline_name": "cathay pacific",
+          "airline_iata": "cx",
+          "airline_icao": "cpa",
+          "flight_number": "798",
+          "flight_iata": "cx798",
+          "flight_icao": "cpa798"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Soekarno-Hatta International",
+        "timezone": "Asia/Jakarta",
+        "iata": "CGK",
+        "icao": "WIII",
+        "terminal": "3",
+        "gate": "7",
+        "delay": null,
+        "scheduled": "2025-07-06T00:05:00+00:00",
+        "estimated": "2025-07-06T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hong Kong International",
+        "timezone": "Asia/Hong_Kong",
+        "iata": "HKG",
+        "icao": "VHHH",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "American Airlines",
+        "iata": "AA",
+        "icao": "AAL"
+      },
+      "flight": {
+        "number": "8918",
+        "iata": "AA8918",
+        "icao": "AAL8918",
+        "codeshared": {
+          "airline_name": "cathay pacific",
+          "airline_iata": "cx",
+          "airline_icao": "cpa",
+          "flight_number": "798",
+          "flight_iata": "cx798",
+          "flight_icao": "cpa798"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chu-Bu Centrair International (Central Japan International)",
+        "timezone": "Asia/Tokyo",
+        "iata": "NGO",
+        "icao": "RJGG",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T03:55:00+00:00",
+        "estimated": "2025-07-06T03:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Lishe International Airport",
+        "timezone": "Asia/Shanghai",
+        "iata": "NGB",
+        "icao": "ZSNB",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Longhao Airlines",
+        "iata": "GI",
+        "icao": "LHA"
+      },
+      "flight": {
+        "number": "4232",
+        "iata": "GI4232",
+        "icao": "LHA4232",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chu-Bu Centrair International (Central Japan International)",
+        "timezone": "Asia/Tokyo",
+        "iata": "NGO",
+        "icao": "RJGG",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T03:30:00+00:00",
+        "estimated": "2025-07-06T03:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Qingdao",
+        "timezone": "Asia/Shanghai",
+        "iata": "TAO",
+        "icao": "ZSQD",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Shandong Airlines",
+        "iata": "SC",
+        "icao": "CDG"
+      },
+      "flight": {
+        "number": "2492",
+        "iata": "SC2492",
+        "icao": "CDG2492",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chu-Bu Centrair International (Central Japan International)",
+        "timezone": "Asia/Tokyo",
+        "iata": "NGO",
+        "icao": "RJGG",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T03:30:00+00:00",
+        "estimated": "2025-07-06T03:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Qingdao",
+        "timezone": "Asia/Shanghai",
+        "iata": "TAO",
+        "icao": "ZSQD",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:40:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Longhao Airlines",
+        "iata": "GI",
+        "icao": "LHA"
+      },
+      "flight": {
+        "number": "4226",
+        "iata": "GI4226",
+        "icao": "LHA4226",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Chu-Bu Centrair International (Central Japan International)",
+        "timezone": "Asia/Tokyo",
+        "iata": "NGO",
+        "icao": "RJGG",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T03:00:00+00:00",
+        "estimated": "2025-07-06T03:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Yantai",
+        "timezone": "Asia/Shanghai",
+        "iata": "YNT",
+        "icao": "ZSYT",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Central Airlines",
+        "iata": "I9",
+        "icao": "HLF"
+      },
+      "flight": {
+        "number": "9804",
+        "iata": "I99804",
+        "icao": "HLF9804",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Qingdao",
+        "timezone": "Asia/Shanghai",
+        "iata": "TAO",
+        "icao": "ZSQD",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T02:10:00+00:00",
+        "estimated": "2025-07-06T02:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Lianshui",
+        "timezone": "Asia/Shanghai",
+        "iata": "HIA",
+        "icao": "ZSSH",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T03:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Shandong Airlines",
+        "iata": "SC",
+        "icao": "CDG"
+      },
+      "flight": {
+        "number": "2433",
+        "iata": "SC2433",
+        "icao": "CDG2433",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Qingdao",
+        "timezone": "Asia/Shanghai",
+        "iata": "TAO",
+        "icao": "ZSQD",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T02:05:00+00:00",
+        "estimated": "2025-07-06T02:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chu-Bu Centrair International (Central Japan International)",
+        "timezone": "Asia/Tokyo",
+        "iata": "NGO",
+        "icao": "RJGG",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Longhao Airlines",
+        "iata": "GI",
+        "icao": "LHA"
+      },
+      "flight": {
+        "number": "4225",
+        "iata": "GI4225",
+        "icao": "LHA4225",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Qingdao",
+        "timezone": "Asia/Shanghai",
+        "iata": "TAO",
+        "icao": "ZSQD",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T02:00:00+00:00",
+        "estimated": "2025-07-06T02:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chu-Bu Centrair International (Central Japan International)",
+        "timezone": "Asia/Tokyo",
+        "iata": "NGO",
+        "icao": "RJGG",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Shandong Airlines",
+        "iata": "SC",
+        "icao": "CDG"
+      },
+      "flight": {
+        "number": "2491",
+        "iata": "SC2491",
+        "icao": "CDG2491",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Qingdao",
+        "timezone": "Asia/Shanghai",
+        "iata": "TAO",
+        "icao": "ZSQD",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:10:00+00:00",
+        "estimated": "2025-07-06T01:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Nanjing Lukou International Airport",
+        "timezone": "Asia/Shanghai",
+        "iata": "NKG",
+        "icao": "ZSNJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T02:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+      },
+      "flight": {
+        "number": "9045",
+        "iata": "CF9045",
+        "icao": "CYZ9045",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Qingdao",
+        "timezone": "Asia/Shanghai",
+        "iata": "TAO",
+        "icao": "ZSQD",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:05:00+00:00",
+        "estimated": "2025-07-06T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hangzhou",
+        "timezone": "Asia/Shanghai",
+        "iata": "HGH",
+        "icao": "ZSHC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T01:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "SF Airlines",
+        "iata": "O3",
+        "icao": "CSS"
+      },
+      "flight": {
+        "number": "7015",
+        "iata": "O37015",
+        "icao": "CSS7015",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T02:05:00+00:00",
+        "estimated": "2025-07-06T02:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": "107",
+        "baggage": "9",
+        "scheduled": "2025-07-06T07:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Cebu Pacific Air",
+        "iata": "5J",
+        "icao": "CEB"
+      },
+      "flight": {
+        "number": "186",
+        "iata": "5J186",
+        "icao": "CEB186",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:45:00+00:00",
+        "estimated": "2025-07-06T01:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hong Kong International",
+        "timezone": "Asia/Hong_Kong",
+        "iata": "HKG",
+        "icao": "VHHH",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T04:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Hong Kong Express",
+        "iata": "UO",
+        "icao": "HKE"
+      },
+      "flight": {
+        "number": "517",
+        "iata": "UO517",
+        "icao": "HKE517",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:10:00+00:00",
+        "estimated": "2025-07-06T01:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "2",
+        "gate": "235",
+        "baggage": "9",
+        "scheduled": "2025-07-06T06:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Korean Air",
+        "iata": "KE",
+        "icao": "KAL"
+      },
+      "flight": {
+        "number": "626",
+        "iata": "KE626",
+        "icao": "KAL626",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:10:00+00:00",
+        "estimated": "2025-07-06T01:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Zhengzhou",
+        "timezone": "Asia/Shanghai",
+        "iata": "CGO",
+        "icao": "ZHCC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tianjin Air Cargo",
+        "iata": "HT",
+        "icao": "CTJ"
+      },
+      "flight": {
+        "number": "3850",
+        "iata": "HT3850",
+        "icao": "CTJ3850",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:05:00+00:00",
+        "estimated": "2025-07-06T01:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Zhengzhou",
+        "timezone": "Asia/Shanghai",
+        "iata": "CGO",
+        "icao": "ZHCC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tianjin Air Cargo",
+        "iata": "HT",
+        "icao": "CTJ"
+      },
+      "flight": {
+        "number": "3852",
+        "iata": "HT3852",
+        "icao": "CTJ3852",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:45:00+00:00",
+        "estimated": "2025-07-06T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Zhengzhou",
+        "timezone": "Asia/Shanghai",
+        "iata": "CGO",
+        "icao": "ZHCC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T04:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "JDL Airlines",
+        "iata": "JG",
+        "icao": "JDL"
+      },
+      "flight": {
+        "number": "2970",
+        "iata": "JG2970",
+        "icao": "JDL2970",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:40:00+00:00",
+        "estimated": "2025-07-06T00:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Narita International Airport",
+        "timezone": "Asia/Tokyo",
+        "iata": "NRT",
+        "icao": "RJAA",
+        "terminal": "3",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:10:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Jetstar Japan",
+        "iata": "GK",
+        "icao": "JJP"
+      },
+      "flight": {
+        "number": "40",
+        "iata": "GK40",
+        "icao": "JJP40",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:30:00+00:00",
+        "estimated": "2025-07-06T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Wenzhou",
+        "timezone": "Asia/Shanghai",
+        "iata": "WNZ",
+        "icao": "ZSWZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T03:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "YTO Cargo Airlines",
+        "iata": "YG",
+        "icao": "HYT"
+      },
+      "flight": {
+        "number": "9054",
+        "iata": "YG9054",
+        "icao": "HYT9054",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "1",
+        "gate": null,
+        "delay": 20,
+        "scheduled": "2025-07-06T00:30:00+00:00",
+        "estimated": "2025-07-06T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": "35",
+        "baggage": "21",
+        "scheduled": "2025-07-06T05:20:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Philippine Airlines",
+        "iata": "PR",
+        "icao": "PAL"
+      },
+      "flight": {
+        "number": "466",
+        "iata": "PR466",
+        "icao": "PAL466",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:30:00+00:00",
+        "estimated": "2025-07-06T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Shenzhen",
+        "timezone": "Asia/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T04:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Tianjin Air Cargo",
+        "iata": "HT",
+        "icao": "CTJ"
+      },
+      "flight": {
+        "number": "3842",
+        "iata": "HT3842",
+        "icao": "CTJ3842",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:30:00+00:00",
+        "estimated": "2025-07-06T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Puerto Princesa",
+        "timezone": "Asia/Manila",
+        "iata": "PPS",
+        "icao": "RPVP",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T02:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Cebu Pacific Air",
+        "iata": "5J",
+        "icao": "CEB"
+      },
+      "flight": {
+        "number": "643",
+        "iata": "5J643",
+        "icao": "CEB643",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:10:00+00:00",
+        "estimated": "2025-07-06T00:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Jackson Field",
+        "timezone": "Pacific/Port_Moresby",
+        "iata": "POM",
+        "icao": "AYPY",
+        "terminal": "I",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T08:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Philippine Airlines",
+        "iata": "PR",
+        "icao": "PAL"
+      },
+      "flight": {
+        "number": "215",
+        "iata": "PR215",
+        "icao": "PAL215",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:05:00+00:00",
+        "estimated": "2025-07-06T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Nanjing Lukou International Airport",
+        "timezone": "Asia/Shanghai",
+        "iata": "NKG",
+        "icao": "ZSNJ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T03:45:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "JDL Airlines",
+        "iata": "JG",
+        "icao": "JDL"
+      },
+      "flight": {
+        "number": "2998",
+        "iata": "JG2998",
+        "icao": "JDL2998",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "2",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:05:00+00:00",
+        "estimated": "2025-07-06T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Mactan-Cebu International",
+        "timezone": "Asia/Manila",
+        "iata": "CEB",
+        "icao": "RPVM",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T01:25:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "AirAsia",
+        "iata": "AK",
+        "icao": "AXM"
+      },
+      "flight": {
+        "number": "761",
+        "iata": "AK761",
+        "icao": "AXM761",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": "1",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:05:00+00:00",
+        "estimated": "2025-07-06T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Brisbane International",
+        "timezone": "Australia/Brisbane",
+        "iata": "BNE",
+        "icao": "YBBN",
+        "terminal": "I",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T09:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Philippine Airlines",
+        "iata": "PR",
+        "icao": "PAL"
+      },
+      "flight": {
+        "number": "221",
+        "iata": "PR221",
+        "icao": "PAL221",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Phuket International",
+        "timezone": "Asia/Bangkok",
+        "iata": "HKT",
+        "icao": "VTSP",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:45:00+00:00",
+        "estimated": "2025-07-06T01:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Nanning",
+        "timezone": "Asia/Shanghai",
+        "iata": "NNG",
+        "icao": "ZGNN",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Sichuan Airlines",
+        "iata": "3U",
+        "icao": "CSC"
+      },
+      "flight": {
+        "number": "9014",
+        "iata": "3U9014",
+        "icao": "CSC9014",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Phuket International",
+        "timezone": "Asia/Bangkok",
+        "iata": "HKT",
+        "icao": "VTSP",
+        "terminal": "3",
+        "gate": "10",
+        "delay": 30,
+        "scheduled": "2025-07-06T00:55:00+00:00",
+        "estimated": "2025-07-06T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Abu Dhabi International",
+        "timezone": "Asia/Dubai",
+        "iata": "AUH",
+        "icao": "OMAA",
+        "terminal": "A",
+        "gate": "B10",
+        "baggage": null,
+        "scheduled": "2025-07-06T05:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Etihad Airways",
+        "iata": "EY",
+        "icao": "ETD"
+      },
+      "flight": {
+        "number": "415",
+        "iata": "EY415",
+        "icao": "ETD415",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Phuket International",
+        "timezone": "Asia/Bangkok",
+        "iata": "HKT",
+        "icao": "VTSP",
+        "terminal": "3",
+        "gate": "10",
+        "delay": 30,
+        "scheduled": "2025-07-06T00:55:00+00:00",
+        "estimated": "2025-07-06T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Abu Dhabi International",
+        "timezone": "Asia/Dubai",
+        "iata": "AUH",
+        "icao": "OMAA",
+        "terminal": "A",
+        "gate": "B10",
+        "baggage": null,
+        "scheduled": "2025-07-06T05:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Bangkok Airways",
+        "iata": "PG",
+        "icao": "BKP"
+      },
+      "flight": {
+        "number": "4008",
+        "iata": "PG4008",
+        "icao": "BKP4008",
+        "codeshared": {
+          "airline_name": "etihad airways",
+          "airline_iata": "ey",
+          "airline_icao": "etd",
+          "flight_number": "415",
+          "flight_iata": "ey415",
+          "flight_icao": "etd415"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Phuket International",
+        "timezone": "Asia/Bangkok",
+        "iata": "HKT",
+        "icao": "VTSP",
+        "terminal": "I",
+        "gate": "82",
+        "delay": null,
+        "scheduled": "2025-07-06T00:20:00+00:00",
+        "estimated": "2025-07-06T00:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Shanghai Pudong International",
+        "timezone": "Asia/Shanghai",
+        "iata": "PVG",
+        "icao": "ZSPD",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Shanghai Airlines",
+        "iata": "FM",
+        "icao": "CSH"
+      },
+      "flight": {
+        "number": "832",
+        "iata": "FM832",
+        "icao": "CSH832",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Phuket International",
+        "timezone": "Asia/Bangkok",
+        "iata": "HKT",
+        "icao": "VTSP",
+        "terminal": "I",
+        "gate": "82",
+        "delay": null,
+        "scheduled": "2025-07-06T00:20:00+00:00",
+        "estimated": "2025-07-06T00:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Shanghai Pudong International",
+        "timezone": "Asia/Shanghai",
+        "iata": "PVG",
+        "icao": "ZSPD",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:30:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "China Eastern Airlines",
+        "iata": "MU",
+        "icao": "CES"
+      },
+      "flight": {
+        "number": "8618",
+        "iata": "MU8618",
+        "icao": "CES8618",
+        "codeshared": {
+          "airline_name": "shanghai airlines",
+          "airline_iata": "fm",
+          "airline_icao": "csh",
+          "flight_number": "832",
+          "flight_iata": "fm832",
+          "flight_icao": "csh832"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Emerald",
+        "timezone": "Australia/Brisbane",
+        "iata": "EMD",
+        "icao": "YEML",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:30:00+00:00",
+        "estimated": "2025-07-06T00:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Rockhampton",
+        "timezone": "Australia/Brisbane",
+        "iata": "ROK",
+        "icao": "YBRK",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T00:58:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "empty",
+        "iata": null,
+        "icao": null
+      },
+      "flight": {
+        "number": null,
+        "iata": null,
+        "icao": null,
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Amausi",
+        "timezone": "Asia/Kolkata",
+        "iata": "LKO",
+        "icao": "VILK",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:20:00+00:00",
+        "estimated": "2025-07-06T00:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T02:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air India Express",
+        "iata": "IX",
+        "icao": "AXB"
+      },
+      "flight": {
+        "number": "1235",
+        "iata": "IX1235",
+        "icao": "AXB1235",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Amausi",
+        "timezone": "Asia/Kolkata",
+        "iata": "LKO",
+        "icao": "VILK",
+        "terminal": "3",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:20:00+00:00",
+        "estimated": "2025-07-06T00:20:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Chhatrapati Shivaji International (Sahar International)",
+        "timezone": "Asia/Kolkata",
+        "iata": "BOM",
+        "icao": "VABB",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T02:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Air India",
+        "iata": "AI",
+        "icao": "AIC"
+      },
+      "flight": {
+        "number": "9752",
+        "iata": "AI9752",
+        "icao": "AIC9752",
+        "codeshared": {
+          "airline_name": "air india express",
+          "airline_iata": "ix",
+          "airline_icao": "axb",
+          "flight_number": "1235",
+          "flight_iata": "ix1235",
+          "flight_icao": "axb1235"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Yiwu",
+        "timezone": "Asia/Shanghai",
+        "iata": "YIW",
+        "icao": "ZSYW",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:05:00+00:00",
+        "estimated": "2025-07-06T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Diosdado Macapagal International (Clark International)",
+        "timezone": "Asia/Manila",
+        "iata": "CRK",
+        "icao": "RPLC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T02:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+      },
+      "flight": {
+        "number": "287",
+        "iata": "CF287",
+        "icao": "CYZ287",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Yiwu",
+        "timezone": "Asia/Shanghai",
+        "iata": "YIW",
+        "icao": "ZSYW",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:05:00+00:00",
+        "estimated": "2025-07-06T00:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Ninoy Aquino International",
+        "timezone": "Asia/Manila",
+        "iata": "MNL",
+        "icao": "RPLL",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T02:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+      },
+      "flight": {
+        "number": "213",
+        "iata": "CF213",
+        "icao": "CYZ213",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:05:00+00:00",
+        "estimated": "2025-07-06T01:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Zurich",
+        "timezone": "Europe/Zurich",
+        "iata": "ZRH",
+        "icao": "LSZH",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T07:50:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Thai Airways International",
+        "iata": "TG",
+        "icao": "THA"
+      },
+      "flight": {
+        "number": "970",
+        "iata": "TG970",
+        "icao": "THA970",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:00:00+00:00",
+        "estimated": "2025-07-06T01:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Seoul (Incheon)",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T08:40:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Jeju Air",
+        "iata": "7C",
+        "icao": "JJA"
+      },
+      "flight": {
+        "number": "2504",
+        "iata": "7C2504",
+        "icao": "JJA2504",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T01:00:00+00:00",
+        "estimated": "2025-07-06T01:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Shenzhen",
+        "timezone": "Asia/Shanghai",
+        "iata": "SZX",
+        "icao": "ZGSZ",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T04:40:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Longhao Airlines",
+        "iata": "GI",
+        "icao": "LHA"
+      },
+      "flight": {
+        "number": "4352",
+        "iata": "GI4352",
+        "icao": "LHA4352",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:55:00+00:00",
+        "estimated": "2025-07-06T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Yantai",
+        "timezone": "Asia/Shanghai",
+        "iata": "YNT",
+        "icao": "ZSYT",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T04:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Central Airlines",
+        "iata": "I9",
+        "icao": "HLF"
+      },
+      "flight": {
+        "number": "8868",
+        "iata": "I98868",
+        "icao": "HLF8868",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:55:00+00:00",
+        "estimated": "2025-07-06T00:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Hong Kong International",
+        "timezone": "Asia/Hong_Kong",
+        "iata": "HKG",
+        "icao": "VHHH",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T04:55:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Hong Kong Express",
+        "iata": "UO",
+        "icao": "HKE"
+      },
+      "flight": {
+        "number": "711",
+        "iata": "UO711",
+        "icao": "HKE711",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:50:00+00:00",
+        "estimated": "2025-07-06T00:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Franz Josef Strauss",
+        "timezone": "Europe/Berlin",
+        "iata": "MUC",
+        "icao": "EDDM",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T07:05:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Thai Airways International",
+        "iata": "TG",
+        "icao": "THA"
+      },
+      "flight": {
+        "number": "924",
+        "iata": "TG924",
+        "icao": "THA924",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:50:00+00:00",
+        "estimated": "2025-07-06T00:50:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Fukuoka",
+        "timezone": "Asia/Tokyo",
+        "iata": "FUK",
+        "icao": "RJFF",
+        "terminal": "I",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T08:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Thai Airways International",
+        "iata": "TG",
+        "icao": "THA"
+      },
+      "flight": {
+        "number": "648",
+        "iata": "TG648",
+        "icao": "THA648",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:45:00+00:00",
+        "estimated": "2025-07-06T00:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T07:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Thai Airways International",
+        "iata": "TG",
+        "icao": "THA"
+      },
+      "flight": {
+        "number": "910",
+        "iata": "TG910",
+        "icao": "THA910",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:40:00+00:00",
+        "estimated": "2025-07-06T00:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Beijing Capital International",
+        "timezone": "Asia/Shanghai",
+        "iata": "PEK",
+        "icao": "ZBAA",
+        "terminal": "2",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T06:40:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Hainan Airlines",
+        "iata": "HU",
+        "icao": "CHH"
+      },
+      "flight": {
+        "number": "7996",
+        "iata": "HU7996",
+        "icao": "CHH7996",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:40:00+00:00",
+        "estimated": "2025-07-06T00:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Zhengzhou",
+        "timezone": "Asia/Shanghai",
+        "iata": "CGO",
+        "icao": "ZHCC",
+        "terminal": null,
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T05:40:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "China Postal Airlines",
+        "iata": "CF",
+        "icao": "CYZ"
+      },
+      "flight": {
+        "number": "264",
+        "iata": "CF264",
+        "icao": "CYZ264",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-07-06",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Suvarnabhumi International",
+        "timezone": "Asia/Bangkok",
+        "iata": "BKK",
+        "icao": "VTBS",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-07-06T00:40:00+00:00",
+        "estimated": "2025-07-06T00:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Milano Malpensa",
+        "timezone": "Europe/Rome",
+        "iata": "MXP",
+        "icao": "LIMC",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-07-06T07:35:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Thai Airways International",
+        "iata": "TG",
+        "icao": "THA"
+      },
+      "flight": {
+        "number": "940",
+        "iata": "TG940",
+        "icao": "THA940",
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    }
+  ]
+}
